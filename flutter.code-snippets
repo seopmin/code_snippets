@@ -1,5 +1,4 @@
 {
-	// statelessWidget
 	"Stateless widget snippet": {
 	  "prefix": "fstless",
 	  "body": [
@@ -15,7 +14,6 @@
 	  ],
 	  "description": "StatelessWidget snippet"
 	},
-	// statefulWidget
 	"Stateful widget snippet": {
 	  "prefix": "fstful",
 	  "description": "Insert a StatefulWidget",
